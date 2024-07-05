@@ -1,0 +1,14 @@
+.emojiItem {
+  list-style-type: none;
+}
+.emojiBtn {
+  background-color: #ffffff33;
+  cursor: pointer;
+  outline: none;
+  width: 100%;
+  height: 100%;
+  border: 3px solid #ffffff33;
+}
+.emojiIcon {
+  width: 50px;
+}

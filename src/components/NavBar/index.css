@@ -1,0 +1,30 @@
+.navbarContainer {
+  display: flex;
+  justify-content: center;
+  background-color: #ffffff33;
+  padding: 8px;
+}
+.titleWithSCoreContainer {
+  display: flex;
+  justify-content: space-between;
+  flex-basis: 80%;
+}
+.logoAndTitleContainer {
+  display: flex;
+  align-items: center;
+}
+.emojiLog {
+  width: 25px;
+}
+.title {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+}
+.scoresContainer {
+  display: flex;
+}
+.score {
+  color: white;
+  font-size: 15px;
+}

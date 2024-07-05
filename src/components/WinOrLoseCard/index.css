@@ -1,0 +1,47 @@
+.winOrLoseCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background-color: #ffffff33;
+  border: 3px solid #ffffff30;
+  border-radius: 25px;
+}
+.detailsSection {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  order: 1;
+}
+.gameStatus {
+  color: white;
+  font-size: 35px;
+}
+.currentScoreLabel {
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+}
+.currentScoreValue {
+  text-align: center;
+  color: #6a59ff;
+  font-size: 30px;
+  font-weight: bold;
+}
+.playAgainButton {
+  color: #3d3d3d;
+  background-color: #ffce27;
+  font-size: 15px;
+  font-weight: bold;
+  border-radius: 20px;
+}
+.imageSection {
+  display: flex;
+  justify-content: center;
+  order: 0;
+}
+.winOrLoseImage {
+  width: 150px;
+  height: 200px;
+}
